@@ -1,6 +1,6 @@
 # Epic-Games-external-drive-game-repair
 
-Solution to epic games not finding games on external drives after they are disconnected and connected again.
+Solution to epic games not being able to find games on external drive after they are disconnected and connected again.
 This can be also used for easier moving of your games from one folder to another (or onto external drive).
 
 ## how to use
